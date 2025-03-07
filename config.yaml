@@ -1,0 +1,57 @@
+search_params:
+  date_range: "last_year"  # Options: "last_year", "last_month", "custom"
+  custom_date_range:
+    start: "2023-01-01"
+    end: "2024-12-31"
+  domains:
+    - "bbc.com"
+    - "reuters.com"
+    - "theguardian.com"
+    - "nytimes.com"
+    - "aljazeera.com"
+    - "mit.edu"
+    - "theprint.in"
+    - "thewire.in"
+    - "timesofindia.indiatimes.com"
+    - "nature.com"
+    - "sciencedirect.com"
+    - "who.int"
+    - "nasa.gov"
+    - "firstpost.com"
+  trusted_sources:
+    - "mit.edu"
+    - "bbc.com"
+    - "theprint.in"
+    - "reuters.com"
+    - "nature.com"
+    - "sciencedirect.com"
+    - "who.int"
+    - "nasa.gov"
+    - "firstpost.com"
+  source_reliability:
+    bbc.com: 2
+    reuters.com: 2
+    theguardian.com: 1
+    nytimes.com: 1
+    aljazeera.com: 1
+    mit.edu: 2
+    theprint.in: 1
+    thewire.in: 1
+    timesofindia.indiatimes.com: 1
+    nature.com: 2
+    sciencedirect.com: 2
+    who.int: 2
+    nasa.gov: 2
+    firstpost.com: 1
+  filters:
+    must_contain:
+      - "growth"
+      - "development"
+    must_not_contain:
+      - "scandal"
+      - "controversy"
+    min_word_count: 500
+  api_params:
+    include_raw_content: true
+    include_images: false
+    include_videos: false
