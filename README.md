@@ -112,25 +112,25 @@ Finally! Click on the ngrok link generated in output section and open it in your
 ## 📌 Demo Screenshots  
 
 ### 🏠 Streamlit Interface  
-![Streamlit Interface](streamlit_interface.png)  
+![Streamlit Interface]([streamlit_interface.png](https://github.com/ssonali6/Fact-Checking-AI-Assistant/blob/main/streamlit_interface.png))  
 
 ### 🔍 Fact-Check Result  
-![Fact-Check Result](fact_check_result.png)  
+![Fact-Check Result](https://github.com/ssonali6/Fact-Checking-AI-Assistant/blob/main/fact_check_result.png)  
 
 ### ✍ Draft Answer  
-![Draft Answer](draft_answer.png)  
+![Draft Answer]([draft_answer.png](https://github.com/ssonali6/Fact-Checking-AI-Assistant/blob/main/draft_answer.png))  
 
 ### ⚠ Bias Detection & Source Reliability Scores Table
-![Bias Detection](bias_detection.png)  
+![Bias Detection](https://github.com/ssonali6/Fact-Checking-AI-Assistant/blob/main/bias_detection.png)  
 
 ### 📊 Source Reliability Chart  
-![Source Reliability](source_reliability.png)  
+![Source Reliability]([source_reliability.png](https://github.com/ssonali6/Fact-Checking-AI-Assistant/blob/main/source_reliability.png)  
 
 ### 📥 Downloading the Report  
-![Download Report Button](download_report_button.png)  
+![Download Report Button]([download_report_button.png](https://github.com/ssonali6/Fact-Checking-AI-Assistant/blob/main/download_report_button.png))  
 
 ### 📄 Viewing the Downloaded Report  
-![Downloaded Report](downloaded_report.png)  
+![Downloaded Report]([downloaded_report.png](https://github.com/ssonali6/Fact-Checking-AI-Assistant/blob/main/downloaded_report.png))  
 
 
 
