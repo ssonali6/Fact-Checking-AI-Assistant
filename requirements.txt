@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-ollama
+langchain-community
+tavily-python
+langgraph
+wikipedia-api
+transformers
+spacy
+pyyaml
+pyngrok
+ngrok
+matplotlib
+
+
