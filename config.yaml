@@ -1,5 +1,5 @@
 search_params:
-  date_range: "last_year"  # Options: "last_year", "last_month", "custom"
+  date_range: "last_year" 
   custom_date_range:
     start: "2023-01-01"
     end: "2024-12-31"
